@@ -29,10 +29,8 @@ For detailed documentation, please refer to the attached PDF.
 9. Outcomes
 10. Conclusion and Future Scope
 
-![Poster](Poster.jpg)
 
-## Project Team
-- **Adhvaith Sankar S S** 
-- **Ajay Raj M** 
-- **Rohith M**
+
+
+
 
