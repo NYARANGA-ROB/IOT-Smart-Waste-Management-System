@@ -1,5 +1,6 @@
 # Smart Waste Management System
 
+
 ## Project Overview
 The project aims to enhance the efficiency of waste collection, reduce operational costs, and promote environmental sustainability by implementing an IoT-based smart waste management system.
 
@@ -29,6 +30,7 @@ For detailed documentation, please refer to the attached PDF.
 8. Sample Test Cases and Reports
 9. Outcomes
 10. Conclusion and Future Scope
+
 
 
 
