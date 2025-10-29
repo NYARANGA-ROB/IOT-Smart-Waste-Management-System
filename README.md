@@ -15,6 +15,7 @@ The project aims to enhance the efficiency of waste collection, reduce operation
 - **Software:** MQTT protocol, HiveMQ Cloud, Amazon SageMaker, Google Colab.
 - **Cloud Infrastructure:** InfluxDB for data storage, machine learning models for analytics.
 
+
 For detailed documentation, please refer to the attached PDF.
 
 ## Table of Contents
@@ -28,6 +29,7 @@ For detailed documentation, please refer to the attached PDF.
 8. Sample Test Cases and Reports
 9. Outcomes
 10. Conclusion and Future Scope
+
 
 
 
